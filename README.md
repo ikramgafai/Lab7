@@ -23,6 +23,9 @@ Les échanges sont disponibles en **JSON** et **XML**.
 | **Persistance** | Spring Data JPA + H2 |
 | **Outils de test** | SoapUI, H2 Console |
 
+![WhatsApp Image 2025-12-04 at 15 51 54](https://github.com/user-attachments/assets/cc3b1e6c-039d-415c-b1e6-b9bcbb5ef9e7)
+![WhatsApp Image 2025-12-04 at 16 12 14](https://github.com/user-attachments/assets/cf8fb8df-befe-4b37-97c9-9bc35cc94c1d)
+
 
 
 
